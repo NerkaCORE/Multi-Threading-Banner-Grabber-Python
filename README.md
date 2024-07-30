@@ -1,9 +1,9 @@
 # Multi-Threading Banner Grabber in Python
-A simple and well working multi-threading banner grabber made in Python.
+A simple and well working multi-threading banner grabber with some colors to make it easier to read, made in Python.
 
-Usage: bannerGrabberMT.py -H <target host> -p <target port>
+<b>Usage</b>: python3 bannerGrabberMT.py -H host -p "port(s)"
 
-Options:
-  -h, --help  show this help message and exit
-  -H TGTHOST  specify target host
+<b>Options:</b></br>
+  -h, --help  show this help message and exit</br>
+  -H TGTHOST  specify target host</br>
   -p TGTPORT  specify target port[s] separated by comma. ex : "21, 22"
